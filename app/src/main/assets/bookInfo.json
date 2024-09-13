@@ -1,0 +1,2295 @@
+[
+  {
+    "bookCover" : "book_pride_and_prejudice",
+    "name" : "Pride and Prejudice",
+    "author" : "Jane Austen",
+    "fileName" : "Pride and Prejudice",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "book_The Great Gatsby",
+    "name" : "The Great Gatsby",
+    "author" : "F. Scott Fitzgerald",
+    "fileName" : "The Great Gatsby",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "name" : "War and Peace",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "fileName" : "War and Peace",
+    "isCollection" : true
+  },
+  {
+    "name" : "Anna Karenina",
+    "fileName" : "Anna Karenina",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "book_little women",
+    "name" : "Little Women",
+    "author" : "Louisa May Alcott",
+    "fileName" : "Little Women",
+    "bookType" : "romanceAndHistoricalFiction",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "book_little women",
+    "name" : "Little Women Part 1",
+    "author" : "Louisa May Alcott",
+    "fileName" : "Little Women Part 1",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "Little Women"
+  },
+  {
+    "bookCover" : "book_little women",
+    "name" : "Little Women Part 2",
+    "author" : "Louisa May Alcott",
+    "fileName" : "Little Women Part 2",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "Little Women"
+  },
+  {
+    "bookCover" : "book_EMMA",
+    "name" : "EMMA",
+    "author" : "Jane Austen",
+    "fileName" : "EMMA",
+    "bookType" : "romanceAndHistoricalFiction",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "book_EMMA",
+    "name" : "EMMA 1",
+    "author" : "Jane Austen",
+    "fileName" : "EMMA 1",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "EMMA"
+  },
+  {
+    "bookCover" : "book_EMMA",
+    "name" : "EMMA 2",
+    "author" : "Jane Austen",
+    "fileName" : "EMMA 2",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "EMMA"
+  },
+  {
+    "bookCover" : "book_Persuasion",
+    "name" : "Persuasion",
+    "author" : "Jane Austen",
+    "fileName" : "Persuasion",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "name" : "Oliver Twist",
+    "fileName" : "Oliver Twist",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Oliver Twist",
+    "isOnline" : true
+  },
+  {
+    "bookCover" : "book_Uncle Tom’s Cabin",
+    "name" : "Uncle Tom’s Cabin",
+    "author" : "Harriet Beecher Stowe",
+    "fileName" : "Uncle Tom’s Cabin",
+    "bookType" : "realisticAndSocialFiction",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "book_Uncle Tom’s Cabin",
+    "name" : "Uncle Tom’s Cabin 1",
+    "author" : "Harriet Beecher Stowe",
+    "fileName" : "Uncle Tom’s Cabin 1",
+    "bookType" : "realisticAndSocialFiction",
+    "parent" : "Uncle Tom’s Cabin"
+  },
+  {
+    "bookCover" : "book_Uncle Tom’s Cabin",
+    "name" : "Uncle Tom’s Cabin 2",
+    "author" : "Harriet Beecher Stowe",
+    "fileName" : "Uncle Tom’s Cabin 2",
+    "bookType" : "realisticAndSocialFiction",
+    "parent" : "Uncle Tom’s Cabin"
+  },
+  {
+    "bookCover" : "Sense and Sensibility",
+    "name" : "Sense and Sensibility",
+    "author" : "Jane Austen",
+    "fileName" : "Sense and Sensibility",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "book_A Tale of Two Cities Book the First",
+    "name" : "A Tale of Two Cities",
+    "author" : "Charles Dickens",
+    "fileName" : "A Tale of Two Cities",
+    "bookType" : "romanceAndHistoricalFiction",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "book_A Tale of Two Cities Book the First",
+    "name" : "A Tale of Two Cities: Book the First",
+    "author" : "Charles Dickens",
+    "fileName" : "A Tale of Two Cities Book the First",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "A Tale of Two Cities"
+  },
+  {
+    "bookCover" : "book_A Tale of Two Cities Book the Second",
+    "name" : "A Tale of Two Cities: Book the Second",
+    "author" : "Charles Dickens",
+    "fileName" : "A Tale of Two Cities Book the Second",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "A Tale of Two Cities"
+  },
+  {
+    "bookCover" : "book_A Tale of Two Cities Book the Third",
+    "name" : "A Tale of Two Cities: Book the Third",
+    "author" : "Charles Dickens",
+    "fileName" : "A Tale of Two Cities Book the Third",
+    "bookType" : "romanceAndHistoricalFiction",
+    "parent" : "A Tale of Two Cities"
+  },
+  {
+    "bookCover" : "Northanger Abbey",
+    "name" : "Northanger Abbey",
+    "author" : "Jane Austen",
+    "fileName" : "Northanger Abbey",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Dubliners",
+    "name" : "Dubliners",
+    "author" : "James Joyce",
+    "fileName" : "Dubliners",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "The Scarlet Letter",
+    "name" : "The Scarlet Letter",
+    "author" : "Nathaniel Hawthorne",
+    "fileName" : "The Scarlet Letter",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Villette",
+    "name" : "Villette",
+    "author" : "Charlotte Brontë",
+    "fileName" : "Villette",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "She",
+    "name" : "She",
+    "author" : "H. Rider Haggard",
+    "fileName" : "She",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Jane Eyre",
+    "name" : "Jane Eyre",
+    "author" : "Charlotte Brontë",
+    "fileName" : "Jane Eyre",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Wuthering Heights",
+    "name" : "Wuthering Heights",
+    "author" : "Emily Brontë",
+    "fileName" : "Wuthering Heights",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Siddhartha",
+    "name" : "Siddhartha",
+    "author" : "Hermann Hesse",
+    "fileName" : "Siddhartha",
+    "bookType" : "realisticAndSocialFiction"
+  },
+  {
+    "bookCover" : "Madame Bovary",
+    "name" : "Madame Bovary",
+    "author" : "Gustave Flaubert",
+    "fileName" : "Madame Bovary",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "Heart of Darkness",
+    "name" : "Heart of Darkness",
+    "author" : "Joseph Conrad",
+    "fileName" : "Heart of Darkness",
+    "bookType" : "realisticAndSocialFiction"
+  },
+  {
+    "bookCover" : "ANNE OF GREEN GABLES",
+    "name" : "ANNE OF GREEN GABLES",
+    "author" : "Lucy Maud Montgomery",
+    "fileName" : "ANNE OF GREEN GABLES",
+    "bookType" : "romanceAndHistoricalFiction"
+  },
+  {
+    "bookCover" : "book_Alice_adventure",
+    "name" : "Alice’s Adventures in Wonderland",
+    "author" : "Lewis Carroll",
+    "fileName" : "Alice’s Adventures in Wonderland",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_PeterPan",
+    "name" : "Peter Pan",
+    "author" : "James Matthew Barrie",
+    "fileName" : "Peter Pan",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_TreasureIsland",
+    "name" : "Treasure Island",
+    "author" : "Robert Louis Stevenson",
+    "fileName" : "Treasure Island",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_The Wonderful Wizard",
+    "name" : "The Wonderful Wizard of Oz",
+    "author" : "L. Frank Baum",
+    "fileName" : "The Wonderful Wizard of Oz",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_TheAdventuresofTomSawyer",
+    "name" : "The Adventures of Tom Sawyer",
+    "author" : "Mark Twain",
+    "fileName" : "The Adventures of Tom Sawyer",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_The Call of the Wild",
+    "name" : "The Call of the Wild",
+    "author" : "Jack London",
+    "fileName" : "The Call of the Wild",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_The Time Machine",
+    "name" : "The Time Machine",
+    "author" : "H. G. Wells",
+    "fileName" : "The Time Machine",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "Around the World in 80 Days",
+    "name" : "Around the World in 80 Days",
+    "author" : "Jules Verne",
+    "fileName" : "Around the World in 80 Days",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "A Little Princess",
+    "name" : "A Little Princess",
+    "author" : "Frances Hodgson Burnett",
+    "fileName" : "A Little Princess",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "The Secret Garden",
+    "name" : "The Secret Garden",
+    "author" : "Frances Hodgson Burnett",
+    "fileName" : "The Secret Garden",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "Twenty Thousand Leagues under the Sea",
+    "name" : "Twenty Thousand Leagues under the Sea",
+    "author" : "Jules Verne",
+    "fileName" : "Twenty Thousand Leagues under the Sea",
+    "bookType" : "fantasyAdventureFiction",
+    "isCollection" : true
+  },
+  {
+    "bookCover" : "Twenty Thousand Leagues under the Sea",
+    "name" : "Twenty Thousand Leagues under the Sea 1",
+    "author" : "Jules Verne",
+    "fileName" : "Twenty Thousand Leagues under the Sea 1",
+    "bookType" : "fantasyAdventureFiction",
+    "parent" : "Twenty Thousand Leagues under the Sea"
+  },
+  {
+    "bookCover" : "Twenty Thousand Leagues under the Sea",
+    "name" : "Twenty Thousand Leagues under the Sea 2",
+    "author" : "Jules Verne",
+    "fileName" : "Twenty Thousand Leagues under the Sea 2",
+    "bookType" : "fantasyAdventureFiction",
+    "parent" : "Twenty Thousand Leagues under the Sea"
+  },
+  {
+    "bookCover" : "King Solomon's Mines",
+    "name" : "King Solomon's Mines",
+    "author" : "H. Rider Haggard",
+    "fileName" : "King Solomon's Mines",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "The Lost World",
+    "name" : "The Lost World",
+    "author" : "Arthur Conan Doyle",
+    "fileName" : "The Lost World",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "The Sea Wolf",
+    "name" : "The Sea Wolf",
+    "author" : "Jack London",
+    "fileName" : "The Sea Wolf",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "The Island of Doctor Moreau",
+    "name" : "The Island of Doctor Moreau",
+    "author" : "H. G. Wells",
+    "fileName" : "The Island of Doctor Moreau",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "The War of the Worlds",
+    "name" : "The War of the Worlds",
+    "author" : "H. G. Wells",
+    "fileName" : "The War of the Worlds",
+    "bookType" : "fantasyAdventureFiction"
+  },
+  {
+    "bookCover" : "book_Frankenstein",
+    "name" : "Frankenstein",
+    "author" : "Mary Shelley",
+    "fileName" : "Frankenstein",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_yellow_wallpaper",
+    "name" : "The Yellow Wallpaper",
+    "author" : "Charlotte Perkins Gilman",
+    "fileName" : "The Yellow Wallpaper",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_metamorphosis",
+    "name" : "Metamorphosis",
+    "author" : "Franz Kafka",
+    "fileName" : "Metamorphosis",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_anthem",
+    "name" : "Anthem",
+    "author" : "Ayn Rand",
+    "fileName" : "Anthem",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_The Strange Case Of Dr. Jekyll And Mr. Hyde",
+    "name" : "The Strange Case Of Dr. Jekyll And Mr. Hyde",
+    "author" : "Robert Louis Stevenson",
+    "fileName" : "The Strange Case Of Dr. Jekyll And Mr. Hyde_json",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_TheMasqueoftheRedDeath",
+    "name" : "The Masque of the Red Death",
+    "author" : "Edgar Allen Poe",
+    "fileName" : "The Masque of the Red Death",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_The Picture of Dorian Gray",
+    "name" : "The Picture of Dorian Gray",
+    "author" : "Oscar Wilde",
+    "fileName" : "The Picture of Dorian Gray",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "Dracula",
+    "name" : "Dracula",
+    "author" : "Bram Stoker",
+    "fileName" : "Dracula",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "Carmilla",
+    "name" : "Carmilla",
+    "author" : "Sheridan Le Fanu",
+    "fileName" : "Carmilla",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "The Turn of the Screw",
+    "name" : "The Turn of the Screw",
+    "author" : "Henry James",
+    "fileName" : "The Turn of the Screw",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "The Jungle",
+    "name" : "The Jungle",
+    "author" : "Upton Sinclair",
+    "fileName" : "The Jungle",
+    "bookType" : "gothicPsychologicalFiction"
+  },
+  {
+    "bookCover" : "book_TheAdventuresofSherlockHolmes",
+    "name" : "The Adventures of Sherlock Holmes",
+    "author" : "Arthur Conan Doyle",
+    "fileName" : "The Adventures of Sherlock Holmes",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Sign of the Four",
+    "name" : "The Sign of the Four",
+    "author" : "Arthur Conan Doyle",
+    "fileName" : "The Sign of the Four",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "book_The Hound of The Baskervilles",
+    "name" : "The Hound of The Baskervilles",
+    "author" : "Arthur Conan Doyle",
+    "fileName" : "The Hound of The Baskervilles",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Return of Sherlock Holmes",
+    "name" : "The Return of Sherlock Holmes",
+    "author" : "Arthur Conan Doyle",
+    "fileName" : "The Return of Sherlock Holmes",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "name" : "The Adventure of the Devil's Foot",
+    "fileName" : "The Adventure of the Devil's Foot",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Adventure of the Devil's Foot",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Valley Of Fear",
+    "fileName" : "The Valley Of Fear",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Valley Of Fear",
+    "isCollection" : true
+  },
+  {
+    "name" : "The Valley Of Fear I - The Tragedy of Birlstone",
+    "fileName" : "The Valley Of Fear I - The Tragedy of Birlstone",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Valley Of Fear",
+    "parent" : "The Valley Of Fear",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Valley Of Fear II - The Scowrers",
+    "fileName" : "The Valley Of Fear II - The Scowrers",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Valley Of Fear",
+    "parent" : "The Valley Of Fear",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Memoirs of Sherlock Holmes",
+    "fileName" : "The Memoirs of Sherlock Holmes",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Memoirs of Sherlock Holmes",
+    "isOnline" : true
+  },
+  {
+    "name" : "His Last Bow",
+    "fileName" : "His Last Bow",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "His Last Bow",
+    "isOnline" : true
+  },
+  {
+    "bookCover" : "Poirot Investigates",
+    "name" : "Poirot Investigates",
+    "author" : "Agatha Christie",
+    "fileName" : "Poirot Investigates",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Secret Adversary",
+    "name" : "The Secret Adversary",
+    "author" : "Agatha Christie",
+    "fileName" : "The Secret Adversary",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Mysterious Affair at Styles",
+    "name" : "The Mysterious Affair at Styles",
+    "author" : "Agatha Christie",
+    "fileName" : "The Mysterious Affair at Styles",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Murder on the Links",
+    "name" : "The Murder on the Links",
+    "author" : "Agatha Christie",
+    "fileName" : "The Murder on the Links",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Man in the Brown Suit",
+    "name" : "The Man in the Brown Suit",
+    "author" : "Agatha Christie",
+    "fileName" : "The Man in the Brown Suit",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "The Secret of Chimneys",
+    "name" : "The Secret of Chimneys",
+    "author" : "Agatha Christie",
+    "fileName" : "The Secret of Chimneys",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "bookCover" : "THE VAULT",
+    "name" : "THE VAULT",
+    "author" : "Ruth Rendell",
+    "fileName" : "THE VAULT",
+    "bookType" : "crimeAndDetectiveFiction"
+  },
+  {
+    "name" : "Black Beauty",
+    "author" : "Anna Sewell",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Black Beauty",
+    "fileName" : "Black Beauty",
+    "isOnline" : true
+  },
+  {
+    "name" : "Old Granny Fox",
+    "author" : "Thornton W. Burgess",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Old Granny Fox",
+    "fileName" : "Old Granny Fox",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Adventures of Pinocchio",
+    "author" : "Carlo Collodi",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Adventures of Pinocchio",
+    "fileName" : "The Adventures of Pinocchio",
+    "isOnline" : true
+  },
+  {
+    "name" : "War and Peace 1",
+    "fileName" : "War and Peace 1",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+
+  },
+
+  {
+    "name" : "War and Peace 2",
+    "fileName" : "War and Peace 2",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 3",
+    "fileName" : "War and Peace 3",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+  {
+    "name" : "War and Peace 4",
+    "fileName" : "War and Peace 4",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 5",
+    "fileName" : "War and Peace 5",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 6",
+    "fileName" : "War and Peace 6",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 7",
+    "fileName" : "War and Peace 7",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 8",
+    "fileName" : "War and Peace 8",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 9",
+    "fileName" : "War and Peace 9",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 10",
+    "fileName" : "War and Peace 10",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 11",
+    "fileName" : "War and Peace 11",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+  {
+    "name" : "War and Peace 12",
+    "fileName" : "War and Peace 12",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+  {
+    "name" : "War and Peace 13",
+    "fileName" : "War and Peace 13",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 14",
+    "fileName" : "War and Peace 14",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 15",
+    "fileName" : "War and Peace 15",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 16",
+    "fileName" : "War and Peace 16",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+
+  {
+    "name" : "War and Peace 17",
+    "fileName" : "War and Peace 17",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "War and Peace",
+    "parent" : "War and Peace",
+    "isOnline" : true
+  },
+  {
+    "name" : "Bleak House",
+    "fileName" : "Bleak House",
+    "author" : "Charles Dickens",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Bleak House",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mystery of a Hansom Cab",
+    "fileName" : "The Mystery of a Hansom Cab",
+    "author" : "Fergus Hume",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Mystery of a Hansom Cab",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Youngest Girl in the School",
+    "fileName" : "The Youngest Girl in the School",
+    "author" : "Evelyn Sharp",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Youngest Girl in the School",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Legend of Sleepy Hollow",
+    "fileName" : "The Legend of Sleepy Hollow",
+    "author" : "Washington Irving",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "The Legend of Sleepy Hollow",
+    "isOnline" : true
+  },
+  {
+    "name" : "A Point of Testimony",
+    "fileName" : "A Point of Testimony",
+    "author" : "Carolyn Wells",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "A Point of Testimony",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Plymouth Express Affair",
+    "fileName" : "The Plymouth Express Affair",
+    "author" : "Agatha Christie",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Plymouth Express Affair",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment",
+    "fileName" : "Crime and Punishment",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "isCollection" : true
+  },
+  {
+    "name" : "Crime and Punishment 1",
+    "fileName" : "Crime and Punishment 1",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment 2",
+    "fileName" : "Crime and Punishment 2",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment 3",
+    "fileName" : "Crime and Punishment 3",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment 4",
+    "fileName" : "Crime and Punishment 4",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment 5",
+    "fileName" : "Crime and Punishment 5",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Crime and Punishment 6",
+    "fileName" : "Crime and Punishment 6",
+    "author" : "Fyodor Dostoyevsky",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Crime and Punishment",
+    "parent" : "Crime and Punishment",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notes from the Underground",
+    "fileName" : "Notes from the Underground",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "Notes from the Underground",
+    "isCollection" : true
+  },
+  {
+    "name" : "Notes from the Underground 1",
+    "fileName" : "Notes from the Underground 1",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "Notes from the Underground",
+    "parent" : "Notes from the Underground",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notes from the Underground 2",
+    "fileName" : "Notes from the Underground 2",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "Notes from the Underground",
+    "parent" : "Notes from the Underground",
+    "isOnline" : true
+  },
+  {
+    "name" : "Ethan Frome",
+    "fileName" : "Ethan Frome",
+    "author" : "Edith Wharton",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "Ethan Frome",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 1",
+    "fileName" : "Anna Karenina 1",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 2",
+    "fileName" : "Anna Karenina 2",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 3",
+    "fileName" : "Anna Karenina 3",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 4",
+    "fileName" : "Anna Karenina 4",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 5",
+    "fileName" : "Anna Karenina 5",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 6",
+    "fileName" : "Anna Karenina 6",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 7",
+    "fileName" : "Anna Karenina 7",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anna Karenina 8",
+    "fileName" : "Anna Karenina 8",
+    "author" : "Leo Tolstoy",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Anna Karenina",
+    "parent" : "Anna Karenina",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Wind in the Willows",
+    "fileName" : "The Wind in the Willows",
+    "author" : "Kenneth Grahame",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Wind in the Willows",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Man Who Was Thursday",
+    "fileName" : "The Man Who Was Thursday",
+    "author" : "G. K. Chesterton",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Man Who Was Thursday",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Forsaken Inn",
+    "fileName" : "The Forsaken Inn",
+    "author" : "Anna Katharine Green",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Forsaken Inn",
+    "isOnline" : true
+  },
+  {
+    "name" : "Whose Body?",
+    "fileName" : "Whose Body",
+    "author" : "Dorothy L. Sayers",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Whose Body",
+    "isOnline" : true
+  },
+  {
+    "name" : "Nonsense Novels",
+    "fileName" : "Nonsense Novels",
+    "author" : "Stephen Leacock",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "Nonsense Novels",
+    "isOnline" : true
+  },
+  {
+    "name" : "Hard Times",
+    "fileName" : "Hard Times",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Hard Times",
+    "isCollection" : true
+  },
+  {
+    "name" : "Hard Times I",
+    "fileName" : "Hard Times I",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Hard Times",
+    "parent" : "Hard Times",
+    "isOnline" : true
+  },
+  {
+    "name" : "Hard Times II",
+    "fileName" : "Hard Times II",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Hard Times",
+    "parent" : "Hard Times",
+    "isOnline" : true
+  },
+  {
+    "name" : "Hard Times III",
+    "fileName" : "Hard Times III",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Hard Times",
+    "parent" : "Hard Times",
+    "isOnline" : true
+  },
+  {
+    "name" : "Utopia",
+    "fileName" : "Utopia",
+    "author" : "Thomas More",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Utopia",
+    "isOnline" : true
+  },
+  {
+    "name" : "A Portrait of the Artist as a Young Man",
+    "fileName" : "A Portrait of the Artist as a Young Man",
+    "author" : "James Joyce",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "A Portrait of the Artist as a Young Man",
+    "isOnline" : true
+  },
+  {
+    "name" : "A Room With A View",
+    "fileName" : "A Room With A View",
+    "author" : "E. M. Forster",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "A Room With A View",
+    "isOnline" : true
+  },
+  {
+    "name" : "Adventures of Huckleberry Finn",
+    "fileName" : "Adventures of Huckleberry Finn",
+    "author" : "Mark Twain",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Adventures of Huckleberry Finn",
+    "isOnline" : true
+  },
+  {
+    "name" : "Anne Of Avonlea",
+    "fileName" : "Anne Of Avonlea",
+    "author" : "Lucy Maud Montgomery",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Anne Of Avonlea",
+    "isOnline" : true
+  },
+  {
+    "name" : "David Copperfield",
+    "fileName" : "David Copperfield",
+    "author" : "Charles Dickens",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "David Copperfield",
+    "isOnline" : true
+  },
+  {
+    "name" : "De Profundis",
+    "fileName" : "De Profundis",
+    "author" : "Oscar Wilde",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "De Profundis",
+    "isOnline" : true
+  },
+  {
+    "name" : "Ivanhoe - A Romance",
+    "fileName" : "Ivanhoe - A Romance",
+    "author" : "Walter Scott",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Ivanhoe",
+    "isOnline" : true
+  },
+  {
+    "name" : "Just So Stories",
+    "fileName" : "Just So Stories",
+    "author" : "Rudyard Kipling",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Just So Stories",
+    "isOnline" : true
+  },
+  {
+    "name" : "Mansfield Park",
+    "fileName" : "Mansfield Park",
+    "author" : "Jane Austen",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Mansfield Park",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Flowers of Evil",
+    "fileName" : "The Flowers of Evil",
+    "author" : "Charles Baudelaire",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "The Flowers of Evil",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mysterious Island",
+    "fileName" : "The Mysterious Island",
+    "author" : "Jules Verne",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Mysterious Island",
+    "isCollection" : true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mysterious Island I",
+    "fileName" : "The Mysterious Island I",
+    "author" : "Jules Verne",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Mysterious Island",
+    "parent": "The Mysterious Island",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mysterious Island II",
+    "fileName" : "The Mysterious Island II",
+    "author" : "Jules Verne",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Mysterious Island",
+    "parent": "The Mysterious Island",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mysterious Island III",
+    "fileName" : "The Mysterious Island III",
+    "author" : "Jules Verne",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Mysterious Island",
+    "parent": "The Mysterious Island",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Railway Children",
+    "fileName" : "The Railway Children",
+    "author" : "Edith Nesbit",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Railway Children",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Three Musketeers",
+    "fileName" : "The Three Musketeers",
+    "author" : "Alexandre Dumas",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Three Musketeers",
+    "isOnline" : true
+  },
+  {
+    "name" : "Three Men in a Boat",
+    "fileName" : "Three Men in a Boat",
+    "author" : "Jerome Klapka Jerome",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Three Men in a Boat",
+    "isOnline" : true
+  },
+  {
+    "name" : "Vanity Fair",
+    "fileName" : "Vanity Fair",
+    "author" : "William Makepeace Thackeray",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Vanity Fair",
+    "isOnline" : true
+  },
+  {
+    "name" : "Only a Girl's Love",
+    "fileName" : "Only a Girl's Love",
+    "author" : "Charles Garvice",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Only a Girl's Love",
+    "isOnline" : true
+  },
+  {
+    "name" : "Showboat",
+    "fileName" : "Showboat",
+    "author" : "Edna Ferber",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Showboat",
+    "isOnline" : true
+  },
+  {
+    "name" : "Wastralls - A Novel",
+    "fileName" : "Wastralls - A Novel",
+    "author" : "C. A. Dawson-Scott",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Wastralls - A Novel",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov",
+    "fileName" : "Brothers Karamazov",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "isCollection" : true,
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 1",
+    "fileName" : "Brothers Karamazov 1",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 2",
+    "fileName" : "Brothers Karamazov 2",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 3",
+    "fileName" : "Brothers Karamazov 3",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 4",
+    "fileName" : "Brothers Karamazov 4",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 5",
+    "fileName" : "Brothers Karamazov 5",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 6",
+    "fileName" : "Brothers Karamazov 6",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 7",
+    "fileName" : "Brothers Karamazov 7",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 8",
+    "fileName" : "Brothers Karamazov 8",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 8",
+    "fileName" : "Brothers Karamazov 8",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 9",
+    "fileName" : "Brothers Karamazov 9",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 10",
+    "fileName" : "Brothers Karamazov 10",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 11",
+    "fileName" : "Brothers Karamazov 11",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 12",
+    "fileName" : "Brothers Karamazov 12",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Brothers Karamazov 13",
+    "fileName" : "Brothers Karamazov 13",
+    "author" : "Fyodor Dostoevsky",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Brothers Karamazov",
+    "parent" : "Brothers Karamazov",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables",
+    "fileName" : "Les Miserables",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "isCollection" : true,
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 1",
+    "fileName" : "Les Miserables 1",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 2",
+    "fileName" : "Les Miserables 2",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 3",
+    "fileName" : "Les Miserables 3",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 4",
+    "fileName" : "Les Miserables 4",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 5",
+    "fileName" : "Les Miserables 5",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 6",
+    "fileName" : "Les Miserables 6",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 7",
+    "fileName" : "Les Miserables 7",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 8",
+    "fileName" : "Les Miserables 8",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 9",
+    "fileName" : "Les Miserables 9",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 10",
+    "fileName" : "Les Miserables 10",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 11",
+    "fileName" : "Les Miserables 11",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 12",
+    "fileName" : "Les Miserables 12",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 13",
+    "fileName" : "Les Miserables 13",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 14",
+    "fileName" : "Les Miserables 14",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 15",
+    "fileName" : "Les Miserables 15",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 16",
+    "fileName" : "Les Miserables 16",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 17",
+    "fileName" : "Les Miserables 17",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 18",
+    "fileName" : "Les Miserables 18",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 19",
+    "fileName" : "Les Miserables 19",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 20",
+    "fileName" : "Les Miserables 20",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 21",
+    "fileName" : "Les Miserables 21",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 22",
+    "fileName" : "Les Miserables 22",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 23",
+    "fileName" : "Les Miserables 23",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 24",
+    "fileName" : "Les Miserables 24",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 25",
+    "fileName" : "Les Miserables 25",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 26",
+    "fileName" : "Les Miserables 26",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 27",
+    "fileName" : "Les Miserables 27",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 28",
+    "fileName" : "Les Miserables 28",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 29",
+    "fileName" : "Les Miserables 29",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 30",
+    "fileName" : "Les Miserables 30",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 31",
+    "fileName" : "Les Miserables 31",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 32",
+    "fileName" : "Les Miserables 32",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 33",
+    "fileName" : "Les Miserables 33",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 34",
+    "fileName" : "Les Miserables 34",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 35",
+    "fileName" : "Les Miserables 35",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 36",
+    "fileName" : "Les Miserables 36",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 37",
+    "fileName" : "Les Miserables 37",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 38",
+    "fileName" : "Les Miserables 38",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 39",
+    "fileName" : "Les Miserables 39",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 40",
+    "fileName" : "Les Miserables 40",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 41",
+    "fileName" : "Les Miserables 41",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 42",
+    "fileName" : "Les Miserables 42",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 43",
+    "fileName" : "Les Miserables 43",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 44",
+    "fileName" : "Les Miserables 44",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 45",
+    "fileName" : "Les Miserables 45",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Les Misérables 46",
+    "fileName" : "Les Miserables 46",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Les Miserables",
+    "parent" : "Les Misérables",
+    "isOnline" : true
+  },
+  {
+    "name" : "Beyond Good And Evil",
+    "fileName" : "Beyond Good And Evil",
+    "author" : "Friedrich Nietzsche",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Beyond Good And Evil",
+    "isOnline" : true
+  },
+  {
+    "name" : "Candide",
+    "fileName" : "Candide",
+    "author" : "Voltaire",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Candide",
+    "isOnline" : true
+  },
+  {
+    "name" : "Great Expectations",
+    "fileName" : "Great Expectations",
+    "author" : "Charles Dickens",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Great Expectations",
+    "isOnline" : true
+  },
+  {
+    "name" : "North and South",
+    "fileName" : "North and South",
+    "author" : "Elizabeth Gaskell",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "North and South",
+    "isOnline" : true
+  },
+  {
+    "name" : "Sir Nigel",
+    "fileName" : "Sir Nigel",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Sir Nigel",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Adventure of the Cardboard Box",
+    "fileName" : "The Adventure of the Cardboard Box",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Adventure of the Cardboard Box",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Fourth Dimension",
+    "fileName" : "The Fourth Dimension",
+    "author" : "C. Howard Hinton",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Fourth Dimension",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Hunter's Lodge Case",
+    "fileName" : "The Hunter's Lodge Case",
+    "author" : "Agatha Christie",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Hunter's Lodge Case",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Missing Will",
+    "fileName" : "The Missing Will",
+    "author" : "Agatha Christie",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Missing Will",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Mystery of Cloomber",
+    "fileName" : "The Mystery of Cloomber",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "crimeAndDetectiveFiction",
+    "bookCover" : "The Mystery of Cloomber",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Poison Belt",
+    "fileName" : "The Poison Belt",
+    "author" : "Arthur Conan Doyle",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Poison Belt",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Prince And The Pauper",
+    "fileName" : "The Prince And The Pauper",
+    "author" : "Mark Twain",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Prince And The Pauper",
+    "isOnline" : true
+  },
+  {
+    "name" : "Through the Crater's Rim",
+    "fileName" : "Through the Crater's Rim",
+    "author" : "A. Hyatt Verrill",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "Through the Crater's Rim",
+    "isOnline" : true
+  },
+  {
+    "name" : "This Side of Paradise",
+    "fileName" : "This Side of Paradise ",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "This Side of Paradise",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "This Side of Paradise 1",
+    "fileName" : "This Side of Paradise 1",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "This Side of Paradise",
+    "parent": "This Side of Paradise",
+    "isOnline" : true
+  },
+  {
+    "name" : "This Side of Paradise 2",
+    "fileName" : "This Side of Paradise 2",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "This Side of Paradise",
+    "parent": "This Side of Paradise",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Age of Innocence",
+    "fileName" : "The Age of Innocence",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Age of Innocence",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The Age of Innocence 1",
+    "fileName" : "The Age of Innocence 1",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Age of Innocence",
+    "parent": "The Age of Innocence",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Age of Innocence 2",
+    "fileName" : "The Age of Innocence 2",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Age of Innocence",
+    "parent": "The Age of Innocence",
+    "isOnline" : true
+  },
+  {
+    "name" : "The House of Mirth",
+    "fileName" : "The House of Mirth",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The House of Mirth",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The House of Mirth 1",
+    "fileName" : "The House of Mirth 1",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The House of Mirth",
+    "parent": "The House of Mirth",
+    "isOnline" : true
+  },
+  {
+    "name" : "The House of Mirth 2",
+    "fileName" : "The House of Mirth 2",
+    "author" : "Edith Wharton",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The House of Mirth",
+    "parent": "The House of Mirth",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Sun Also Rises",
+    "fileName" : "The Sun Also Rises",
+    "author" : "Ernest Hemingway",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Sun Also Rises",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The Sun Also Rises 1",
+    "fileName" : "The Sun Also Rises 1",
+    "author" : "Ernest Hemingway",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Sun Also Rises",
+    "parent": "The Sun Also Rises",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Sun Also Rises 2",
+    "fileName" : "The Sun Also Rises 2",
+    "author" : "Ernest Hemingway",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Sun Also Rises",
+    "parent": "The Sun Also Rises",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Sun Also Rises 3",
+    "fileName" : "The Sun Also Rises 3",
+    "author" : "Ernest Hemingway",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Sun Also Rises",
+    "parent": "The Sun Also Rises",
+    "isOnline" : true
+  },
+  {
+    "name" : "Life On The Mississippi",
+    "fileName" : "Life On The Mississippi",
+    "author" : "Mark Twain",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "Life On The Mississippi",
+    "isOnline" : true
+  },
+  {
+    "name" : "A Connecticut Yankee in King Arthur's Court",
+    "fileName" : "A Connecticut Yankee in King Arthur's Court",
+    "author" : "Mark Twain",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "A Connecticut Yankee in King Arthur's Court",
+    "isOnline" : true
+  },
+  {
+    "name" : "A Dog's Tale",
+    "fileName" : "A Dog's Tale",
+    "author" : "Mark Twain",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "A Dog's Tale",
+    "isOnline" : true
+  },
+  {
+    "name" : "Camille",
+    "fileName" : "Camille",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Camille",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Cask of Amontillado",
+    "fileName" : "The Cask of Amontillado",
+    "author" : "Edgar Allan Poe",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "The Cask of Amontillado",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Castle of Otranto",
+    "fileName" : "The Castle of Otranto",
+    "author" : "Horace Walpole",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "The Castle of Otranto",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Dunwich Horror",
+    "fileName" : "The Dunwich Horror",
+    "author" : "H. P. Lovecraft",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "The Dunwich Horror",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Fall of the House of Usher",
+    "fileName" : "The Fall of the House of Usher",
+    "author" : "Edgar Allan Poe",
+    "bookType" : "gothicPsychologicalFiction",
+    "bookCover" : "The Fall of the House of Usher",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Man in the Iron Mask",
+    "fileName" : "The Man in the Iron Mask",
+    "author" : "Alexandre Dumas",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Man in the Iron Mask",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Vicomte de Bragelonne",
+    "fileName" : "The Vicomte de Bragelonne",
+    "author" : "Alexandre Dumas",
+    "bookType" : "fantasyAdventureFiction",
+    "bookCover" : "The Vicomte de Bragelonne",
+    "isOnline" : true
+  },
+  {
+    "name" : "Twenty Years After",
+    "fileName" : "Twenty Years After",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Twenty Years After",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris",
+    "fileName" : "Notre Dame de Paris",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 1",
+    "fileName" : "Notre Dame de Paris 1",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 2",
+    "fileName" : "Notre Dame de Paris 2",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 3",
+    "fileName" : "Notre Dame de Paris 3",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 4",
+    "fileName" : "Notre Dame de Paris 4",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 5",
+    "fileName" : "Notre Dame de Paris 5",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 6",
+    "fileName" : "Notre Dame de Paris 6",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 7",
+    "fileName" : "Notre Dame de Paris 7",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 8",
+    "fileName" : "Notre Dame de Paris 8",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 9",
+    "fileName" : "Notre Dame de Paris 9",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 10",
+    "fileName" : "Notre Dame de Paris 10",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "Notre Dame de Paris 11",
+    "fileName" : "Notre Dame de Paris 11",
+    "author" : "Victor Hugo",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "Notre Dame de Paris",
+    "parent": "Notre Dame de Paris",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Beautiful and Damned",
+    "fileName" : "The Beautiful and Damned",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "The Beautiful and Damned",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The Beautiful and Damned 1",
+    "fileName" : "The Beautiful and Damned 1",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "The Beautiful and Damned",
+    "parent": "The Beautiful and Damned",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Beautiful and Damned 2",
+    "fileName" : "The Beautiful and Damned 2",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "The Beautiful and Damned",
+    "parent": "The Beautiful and Damned",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Beautiful and Damned 3",
+    "fileName" : "The Beautiful and Damned 3",
+    "author" : "F. Scott Fitzgerald",
+    "bookType" : "realisticAndSocialFiction",
+    "bookCover" : "The Beautiful and Damned",
+    "parent": "The Beautiful and Damned",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo",
+    "fileName" : "The Count Of Monte Cristo",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "isCollection": true,
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo 1",
+    "fileName" : "The Count Of Monte Cristo 1",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "parent": "The Count Of Monte Cristo",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo 2",
+    "fileName" : "The Count Of Monte Cristo 2",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "parent": "The Count Of Monte Cristo",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo 3",
+    "fileName" : "The Count Of Monte Cristo 3",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "parent": "The Count Of Monte Cristo",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo 4",
+    "fileName" : "The Count Of Monte Cristo 4",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "parent": "The Count Of Monte Cristo",
+    "isOnline" : true
+  },
+  {
+    "name" : "The Count Of Monte Cristo 5",
+    "fileName" : "The Count Of Monte Cristo 5",
+    "author" : "Alexandre Dumas",
+    "bookType" : "romanceAndHistoricalFiction",
+    "bookCover" : "The Count Of Monte Cristo",
+    "parent": "The Count Of Monte Cristo",
+    "isOnline" : true
+  }
+]

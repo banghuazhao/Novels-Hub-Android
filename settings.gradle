@@ -1,0 +1,3 @@
+include ':app'
+include ':app', ':shinebuttonlib'
+rootProject.name = "Novels Hub"

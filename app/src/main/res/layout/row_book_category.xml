@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        >
+
+        <TextView
+            android:id="@+id/book_category_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:fontFamily="sans-serif-medium"
+            android:text="Category"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp"
+            android:textSize="18dp">
+
+        </TextView>
+
+        <Button
+            android:id="@+id/book_more"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:textSize="16dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="-50dp"
+            android:layout_marginRight="0dp"
+            android:background="@android:color/transparent"
+            android:textColor="@color/black"
+            android:text="More"
+            android:textAllCaps="false">
+        </Button>
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="290dp"
+        android:orientation="horizontal"
+        android:layout_gravity="center_vertical"
+        android:id="@+id/book_category_recycler_view"
+        >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+    <View
+        android:id="@+id/row_book_separator"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:background="?android:attr/listDivider"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

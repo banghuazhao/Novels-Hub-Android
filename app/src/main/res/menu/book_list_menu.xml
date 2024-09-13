@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home_menu_action_search"
+        android:title="Search book name or author"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:searchHintIcon="@null"
+        app:actionViewClass="android.widget.SearchView"/>
+</menu>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Novels Hub</string>
+    <string name="Feedback">Feedback</string>
+    <string name="Menu">Menu</string>
+    <string name="Rate">Rate this App</string>
+    <string name="Share">Share this App</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Enjoy">Enjoying</string>
+
+    <string name="MoreApps">More Apps</string>
+    <string name="FinanceGo">Finance Go</string>
+    <string name="FinanceGoDescription">Financial Reports, Stock Market Analysis and Stocks Investing</string>
+    <string name="FinancialRatiosGo">Financial Ratios Go</string>
+    <string name="FinancialRatiosGoDescription">Finance, Stocks and Investing</string>
+    <string name="NovelsHub">NovelsHub</string>
+    <string name="FictioneBooksLibrary">Fiction eBooks Library</string>
+    <string name="MetronomeGo">Metronome Go</string>
+    <string name="tempo">tempo,bpm-counter</string>
+    <string name="SimpleCalculator">Simple Calculator:Calculator +</string>
+    <string name="MathCalculator">Math Calculator</string>
+    <string name="SudokuLover">Sudoku Lover</string>
+    <string name="SudokuPuzzles">Sdoku Puzzles</string>
+    <string name="WePlayPiano">We Play Piano</string>
+    <string name="PianoKeyboard">Piano Keyboard</string>
+    <string name="SavingAmbulanceSlidingBlock">Saving Ambulance!Sliding Block</string>
+    <string name="SlidingPuzzleWithCars">Sliding Puzzle With Cars</string>
+    <string name="RelaxingUp">Relaxing Up</string>
+    <string name="MeditationandHealing">Meditation and Healing</string>
+    <string name="MintTranslate">Mint Translate</string>
+    <string name="TextTranslator">Text Translator</string>
+    <string name="InstantFace">Instant Face</string>
+    <string name="AvatarMaker">Avatar Maker</string>
+    <string name="WorldWeatherLiveAllCities">World Weather Live: All Cities</string>
+    <string name="Weatherradarweatherforecast">Weather radar,weather forecast</string>
+    <string name="Bookmark_added_at">Bookmark added at</string>
+    <string name="Add_book_markat">Add bookmark at</string>
+    <string name="Goto_Bookmark_at">Goto Bookmark at</string>
+    <string name="Library_added">Library added</string>
+    <string name="Library_removed">Library removed</string>
+    <string name="Home">Home</string>
+    <string name="Library">Library</string>
+    <string name="No_books_in_the_library">No books in the library</string>
+    <string name="Tap">Tap</string>
+    <string name="to_add_a_book_in_the_library">to add a book in the library</string>
+    <string name="Stop_Reading">Stop Reading</string>
+    <string name="Begin_Reading">Begin Reading</string>
+    <string name="ShareArticle">Share</string>
+    <string name="Font_Size">Font Size</string>
+    <string name="NoBookInLibrary">There is not book in the library\nTap ⭐️ to add a book</string>
+
+</resources>
