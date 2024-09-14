@@ -16,7 +16,7 @@ This app includes numerous genres such as Romance, Historical Fiction, Fantasy, 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/banghuazhao/Four-Great-Classical-Novels-Android.git
+git clone https://github.com/banghuazhao/Novels-Hub-Android.git
 ```
 
 ### Step 2: Open the Project in Android Studio
